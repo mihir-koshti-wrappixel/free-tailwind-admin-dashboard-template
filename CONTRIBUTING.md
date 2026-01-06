@@ -181,5 +181,3 @@ Include:
 
 We truly appreciate your time and contributions.
 Your help makes these templates better for everyone 🚀
-
----
