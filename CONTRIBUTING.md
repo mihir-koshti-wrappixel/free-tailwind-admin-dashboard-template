@@ -36,8 +36,9 @@ Follow these simple steps to start contributing:
    Create a new branch to work on your feature or fix. This keeps your changes separate from the main branch:
    ```bash
    git checkout -b your-template/feature/your-feature-name
+   ```
 
-   Example:
+Example:
 
    ```bash
    git checkout -b nextjs/feature/your-feature-name
